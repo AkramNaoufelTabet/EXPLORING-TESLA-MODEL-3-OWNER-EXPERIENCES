@@ -1,5 +1,11 @@
-# AN-INTERACTIVE-CHATBOT-SOLUTION-FOR-E-COMMERCE-USING-GENERATIVE-AI-AND-AWS
-This project aims to develop an interactive AI chatbot specifically tailored for the e-commerce sector. The chatbot  designed to handle various customer service tasks, including answering queries, providing personalised product recommendations, and offering real-time order status updates.
+#EXPLORING TESLA MODEL 3 OWNER EXPERIENCES
 
-Working on it Now,will be available soon. Stay tuned!!
+
+In this project, we apply social media analytics to explore the experiences of electric
+vehicle (EV) owners. Using data from platforms like Reddit, YouTube, and others, we aim to
+uncover common themes, sentiments, and issues related to EV ownership. Our focus will be on
+the Tesla Model 3, a popular choice in the electric vehicle market. The analysis will involve data
+collection, preprocessing, exploratory data analysis, and text mining to draw meaningful
+insights.
+
 
